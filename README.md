@@ -7,3 +7,6 @@ Goal: AWS cloud engineer by 24 January 2027, by learning Linux, networking, AWS,
 - Logging what I learned to track my progress
   
 I use AI as my tutor for learning effectively and execute commands on my own, write notes for revision
+
+## Progress
+- [Day 1: Linux basics](day1-linux.md): filesystem, navigation, ls/cp/mv/rm, man pages
