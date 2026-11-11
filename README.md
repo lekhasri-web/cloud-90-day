@@ -10,3 +10,6 @@ I use AI as my tutor for learning effectively and execute commands on my own, wr
 
 ## Progress
 - [Day 1: Linux basics](day1-linux.md): filesystem, navigation, ls/cp/mv/rm, man pages
+- [Day 2: Linux permissions](day2-linux.md):Users, groups, permissions,sudo
+- [Day 2: Linux Processes](day3-linux.md):Day 3: Processes, signals, systemd, journalctl
+
