@@ -1,4 +1,4 @@
-# Day 4: Bash Scripting
+# Day 5: Bash Scripting
 
 Did this on my EC2 instance (`linux-lab`, Ubuntu 24.04). Goal was to write a log-summary script that takes arguments.
 
