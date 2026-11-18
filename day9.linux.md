@@ -63,7 +63,7 @@ Lines starting with * are curl telling me what it is doing, > is the request I s
 
 Where I found each stage:
 
-TODO: paste one real line from my curl -v output for each stage (DNS, TCP, TLS, HTTP request, HTTP response) and say what it proves.
+
 DNS --> Host example.com:443 was resolved.
 * IPv6: 2606:4700:10::ac42:93f3, 2606:4700:10::6814:179a
 * IPv4: 172.66.147.243, 104.20.23.154                                       --->proves DNS got the IP address
@@ -97,7 +97,7 @@ HTTP response --> < HTTP/2 200                                             --->P
 
 
 ## My mistakes today (for next time)
-TODO: write these in my own words.
+
 1. 443 is a port number, and HTTPS uses TCP to connect to it. The transport layer (L4) is where TCP and UDP live.
 2. MX and NS are different. NS is authoritative servers and MX is mail sent to the domain is delivered
 3. Ping uses ICMP means if ping works then L3 and below layers are working not TCP or ports working
