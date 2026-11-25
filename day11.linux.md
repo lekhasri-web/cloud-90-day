@@ -62,4 +62,3 @@ git check-ignore -v .env       # shows which line of .gitignore ignores it
 ## My mistakes today
 - Local repo folder was `linux-labs` but the GitHub repo was `linux-lab`, so the push said "Repository not found". I found it with `git remote -v`, then fixed it with `git remote set-url`.
 - Ran `git switch` in my home folder, which isn't a repo.
-- TODO: add one or two mistakes in my own words (for example, the NACL rule types, or what `.gitignore` can and can't do).
